@@ -1,0 +1,1 @@
+let prompt = window.alert("Bem vindo!")
